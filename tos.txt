@@ -27,20 +27,20 @@ Diretrizes e Regras de Conduta
 [CONTENT]
 
 Conduta Interpessoal: Comportamento tóxico, perseguição (stalking), assédio ou qualquer forma de discriminação (racismo, xenofobia, etc.) resultará em banimento imediato.
-
+\n\n
 Conformidade Legal: É obrigatório seguir os Termos de Serviço do VRChat. Conteúdo ilegal ou estritamente NSFW é proibido.
-
+\n\n
 Avatares: São proibidos avatares de crash, que usem exploits ou que sejam intencionalmente disruptivos/ofensivos.
-
+\n\n
 Privacidade: Respeite o espaço alheio. Não grave ou transmita áudio/vídeo de outros usuários sem consentimento explícito.
-
+\n\n
 Neutralidade: Este é um ambiente de lazer. Evite hostilidades por divergências políticas ou rivalidades de grupo. Conflitos pessoais devem ser resolvidos via função de Bloqueio.
 [END]
-
+\n\n
 [SUBTITLE]
 Acesso Condicional e Restrições
 [END]
-
+\n\n
 [CONTENT]
 Ao utilizar o BRChat, você concorda com o seguinte modelo de acesso:
 
@@ -50,7 +50,7 @@ Privilégio de Acesso: Todo o restante do mapa (zonas sociais e de interação) 
 
 Ações Disciplinares: A administração pode aplicar teleportes para a área de restrição, remoção da instância (kick/ban) e revogação de funções especiais para manter a ordem.
 [END]
-
+\n\n
 [SUBTITLE]
 Propriedade Legal e Autoridade
 [END]

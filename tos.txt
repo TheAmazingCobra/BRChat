@@ -7,9 +7,9 @@ Gestão e Moderação Voluntária
 [END]
 
 [CONTENT]
-A moderação e a gestão do mapa, do grupo VRChat Brasil e do servidor discord.gg/BRChat são realizadas integralmente por uma equipe de staffs voluntários.
+A moderação e a gestão do mapa, do grupo VRChat Brasil e do servidor discord.gg/BRChat são realizadas integralmente por uma equipe de staffs voluntários.\n
 
-As opiniões, comentários e ações individuais dos membros da staff são de sua inteira responsabilidade e não refletem, necessariamente, a posição oficial ou os valores da desenvolvedora.
+As opiniões, comentários e ações individuais dos membros da staff são de sua inteira responsabilidade e não refletem, necessariamente, a posição oficial ou os valores da desenvolvedora.\n
 [END]
 
 [SUBTITLE]
@@ -17,7 +17,8 @@ Respeito e Coexistência
 [END]
 
 [CONTENT]
-O BRChat é um espaço de colaboração criado para promover conexões, conversas maduras e experiências imersivas na comunidade brasileira. O uso deste mapa não é um direito irrestrito, mas um privilégio condicional baseado no respeito mútuo.
+O BRChat é um espaço de colaboração criado para promover conexões, conversas maduras e experiências imersivas na comunidade brasileira. \n
+O uso deste mapa não é um direito irrestrito, mas um privilégio condicional baseado no respeito mútuo.
 [END]
 
 [SUBTITLE]
@@ -26,15 +27,15 @@ Diretrizes e Regras de Conduta
 
 [CONTENT]
 
-Conduta Interpessoal: Comportamento tóxico, perseguição (stalking), assédio ou qualquer forma de discriminação (racismo, xenofobia, etc.) resultará em banimento imediato.
+* Conduta Interpessoal: Comportamento tóxico, perseguição (stalking), assédio ou qualquer forma de discriminação (racismo, xenofobia, etc.) resultará em banimento imediato.
 \n\n
-Conformidade Legal: É obrigatório seguir os Termos de Serviço do VRChat. Conteúdo ilegal ou estritamente NSFW é proibido.
+* Conformidade Legal: É obrigatório seguir os Termos de Serviço do VRChat. Conteúdo ilegal ou estritamente NSFW é proibido.
 \n\n
-Avatares: São proibidos avatares de crash, que usem exploits ou que sejam intencionalmente disruptivos/ofensivos.
+* Avatares: São proibidos avatares de crash, que usem exploits ou que sejam intencionalmente disruptivos/ofensivos.
 \n\n
-Privacidade: Respeite o espaço alheio. Não grave ou transmita áudio/vídeo de outros usuários sem consentimento explícito.
+* Privacidade: Respeite o espaço alheio. Não grave ou transmita áudio/vídeo de outros usuários sem consentimento explícito.
 \n\n
-Neutralidade: Este é um ambiente de lazer. Evite hostilidades por divergências políticas ou rivalidades de grupo. Conflitos pessoais devem ser resolvidos via função de Bloqueio.
+* Neutralidade: Este é um ambiente de lazer. Evite hostilidades por divergências políticas ou rivalidades de grupo. Conflitos pessoais devem ser resolvidos via função de Bloqueio.
 [END]
 \n\n
 [SUBTITLE]
@@ -48,7 +49,11 @@ Zona de Restrição (Subway): Usuários que optarem por não aceitar estes termo
 
 Privilégio de Acesso: Todo o restante do mapa (zonas sociais e de interação) é um privilégio Supporter / VIP cedido de forma gratuita apenas aos usuários que aceitam e seguem integralmente as normas da comunidade.
 
-Ações Disciplinares: A administração pode aplicar teleportes para a área de restrição, remoção da instância (kick/ban) e revogação de funções especiais para manter a ordem.
+Ações Disciplinares: \n
+* A administração pode aplicar teleportes.\n
+* Remoção da instância (kick/ban).\n
+* Remover acesso as areas privilegiadas do mapa.\n
+* Revogação de funções especiais para manter a ordem.\n
 [END]
 \n\n
 [SUBTITLE]
